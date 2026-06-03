@@ -68,7 +68,7 @@ spec:
         - name: department-web-front-end
           securityContext:
             {}
-          image: "thesis-i/department-web-front-end:latest"
+          image: "ghcr.io/thesis-i/department-web-front-end:latest"
           imagePullPolicy: Always
           ports:
             - name: http

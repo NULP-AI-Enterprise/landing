@@ -8,7 +8,7 @@ replicaCount: 1
 
 # This sets the container image more information can be found here: https://kubernetes.io/docs/concepts/containers/images/
 image:
-  repository: thesis-i/department-web-front-end
+  repository: ghcr.io/thesis-i/department-web-front-end
   tag: latest
   pullPolicy: Always
 
