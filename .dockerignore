@@ -1,0 +1,9 @@
+node_modules
+.next
+.git
+.idea
+*.md
+Dockerfile
+.gitignore
+package-lock.json
+npm-debug.log

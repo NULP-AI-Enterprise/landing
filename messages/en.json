@@ -1,0 +1,1148 @@
+{
+  "Navbar": {
+    "main": "Home",
+    "about": "About Us",
+    "team": "Team",
+    "applicants": "For Applicants",
+    "rnd": "Projects",
+    "researchUnits": "AI HUB",
+    "news": "News",
+    "contact": "Contacts",
+    "tour": "360 Tour",
+    "partners": "Partners",
+    "donate": "Donate",
+    "close": "Close"
+  },
+  "Footer": {
+    "titleTop": "AI Department",
+    "titleBottom": "",
+    "admissionBtn": "Admissions",
+    "infoHeading": "Information",
+    "nav": {
+      "main": "Home",
+      "about": "About Us",
+      "team": "Team",
+      "applicants": "For Applicants",
+      "rnd": "Projects",
+      "tour": "360 Tour"
+    },
+    "contactHeading": "Contacts",
+    "address": "5 Kniazia Romana St, bldg. 20",
+    "copyright": "© 2026 AI DEPARTMENT. LVIV POLYTECHNIC NATIONAL UNIVERSITY",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "AboutHero": {
+    "university": "Lviv Polytechnic",
+    "title": "About Us",
+    "description": "We specialize in developing and implementing innovative artificial intelligence solutions. Our goal is to advance cutting-edge technologies and educate the next generation of professionals.",
+    "button": "Our Research"
+  },
+  "Faculty": {
+    "subtitle": "Faculty Members",
+    "title": "Our Academic Team",
+    "viewAll": "View All"
+  },
+  "MissionVision": {
+    "mission": {
+      "title": "Our Mission",
+      "description": "To create a dynamic academic environment that fosters cutting-edge research, innovative thinking, and practical applications in the field of artificial intelligence. We aim to equip students with fundamental theoretical knowledge and strong practical skills."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be a globally recognized center of excellence in AI education and research, driving technological progress and contributing to a smarter, more sustainable society through ethical AI solutions."
+    }
+  },
+  "ResearchDirections": {
+    "subtitle": "Expertise",
+    "title": "Research Directions",
+    "topics": [
+      {
+        "title": "Machine and Deep Learning",
+        "desc": "Development of advanced neural network architectures, algorithm optimization for pattern recognition, and application of deep learning to complex datasets."
+      },
+      {
+        "title": "Computer Vision",
+        "desc": "Image processing, object detection, facial recognition, and medical image analysis using state-of-the-art vision models."
+      },
+      {
+        "title": "Natural Language Processing",
+        "desc": "Text analysis, sentiment classification, machine translation, and the development of conversational AI systems and LLM-based applications."
+      },
+      {
+        "title": "Data Science and Analytics",
+        "desc": "Big data processing, predictive modeling, statistical analysis, and extracting actionable insights from complex datasets."
+      },
+      {
+        "title": "Robotics and Automation",
+        "desc": "Autonomous systems, reinforcement learning for control, and intelligent robotic perception in dynamic environments."
+      },
+      {
+        "title": "IoT and Edge AI",
+        "desc": "Deploying machine learning models on resource-constrained devices, sensor networks, and smart city infrastructure."
+      }
+    ],
+    "ethics": {
+      "title": "AI Safety and Ethics",
+      "desc": "Ensuring AI model robustness against adversarial attacks, fairness, explainability, and ethical AI deployment."
+    }
+  },
+  "ApplicantsHero": {
+    "titleLine1": "Educational",
+    "titleLine2": "Programs",
+    "description": "Explore our comprehensive curriculum designed to prepare the next generation of leaders in artificial intelligence. We offer degree programs across all levels of higher education."
+  },
+  "BachelorPage": {
+    "heroTitle": "Bachelor's Program",
+    "heroSubtitle": "F3 Computer Science: Artificial Intelligence Systems",
+    "whyUsTitle": "Why Choose Us?",
+    "goalTitle": "Goal",
+    "goalText": "Our program provides a unique opportunity to master artificial intelligence technologies and turn knowledge into practice. You will acquire not just theory, but real-world skills in developing AI solutions in machine learning, NLP, CV, Big Data, and more.",
+    "skillsTitle": "What You Will Learn",
+    "skills": [
+      "Machine learning, NLP, computer vision",
+      "AI libraries: TensorFlow, PyTorch, OpenCV, etc.",
+      "Cloud services: AWS, Azure, GCP",
+      "Data engineering, AI ethics, visualization",
+      "Microcontrollers: Arduino, Jetson, Raspberry",
+      "Soft Skills: teamwork, presentation, management"
+    ],
+    "courseMapBtn": "Curriculum Map",
+    "initiativesTitle": "Key Department Initiatives",
+    "initiativesConclusion": "The AI Department shapes not only highly qualified professionals but also innovators, researchers, and entrepreneurs ready to build the future of artificial intelligence.",
+    "initiatives": [
+      {
+        "title": "Strong Faculty Team",
+        "desc": "Our educators are experts with experience in projects and conferences, blending academic and practical knowledge."
+      },
+      {
+        "title": "Educational Program with SoftServe",
+        "desc": "A joint program that enables learning from practitioners and completing real project tasks with company experts."
+      },
+      {
+        "title": "Dual Education",
+        "desc": "Combining studies with practice in IT companies. Students build their careers while studying."
+      },
+      {
+        "title": "Project-Based Learning",
+        "desc": "Courses feature real projects mentored by business representatives, building market-ready skills."
+      },
+      {
+        "title": "AI Incubator",
+        "desc": "A platform for developing startups, conducting research, and launching AI products. Mentorship, resources, and support to bring ideas to life."
+      },
+      {
+        "title": "Data Science Club",
+        "desc": "A horizontal knowledge-sharing culture. Senior students help juniors with ML, analytics, and AI."
+      },
+      {
+        "title": "Robotics LAB",
+        "desc": "A hands-on laboratory for developing robotics solutions using sensors, AI, and modern platforms."
+      },
+      {
+        "title": "StartUP",
+        "desc": "A platform for developing business ideas, where students pitch startups to investors and receive support."
+      }
+    ],
+    "careerTitle": "Career Opportunities",
+    "careerDesc": "After graduation, you can work in IT companies, research centers, financial institutions, medical laboratories, and other high-tech sectors.",
+    "careers": [
+      "Data Scientist",
+      "Machine Learning Engineer",
+      "Computer Vision Engineer",
+      "NLP Engineer",
+      "Robotics Engineer",
+      "Big Data Engineer",
+      "AI Researcher",
+      "AI Product Manager",
+      "AI Ethics Specialist"
+    ]
+  },
+  "International": {
+    "title": "International Opportunities",
+    "subtitle": "Erasmus+ Partners and Double Degree Programs"
+  },
+  "Programs": {
+    "buttons": {
+      "learnMore": "Learn More",
+      "programDetails": "Program Details"
+    },
+    "badge": "Curriculum",
+    "admissionBtn": "Admission Info",
+    "moreInfo": "More about the program",
+    "levels": [
+      {
+        "level": "Bachelor's Degree",
+        "title": "F3 Computer Science",
+        "subtitle": "Artificial Intelligence Systems",
+        "bullets": [
+          "A unique opportunity to master AI technologies: from machine learning to NLP and Computer Vision.",
+          "Teamwork on real projects from the first semester and mentoring from top IT experts starting in the 2nd year.",
+          "In-depth English language study and Soft Skills development for working in modern tech companies."
+        ]
+      },
+      {
+        "level": "Master's Degree",
+        "title": "F3 Computer Science (MSc)",
+        "subtitle": "Applied Artificial Intelligence",
+        "bullets": [
+          "Advanced study: deep learning, neural network architectures, and complex language and image processing systems.",
+          "Technical Leadership: combining deep technical expertise with team and project management skills.",
+          "POC → MVP: step-by-step development of AI solutions from concept to a real business product under practitioners' guidance."
+        ]
+      },
+      {
+        "level": "PhD",
+        "title": "F3 Computer Science (PhD)",
+        "subtitle": "Intelligent Systems Research",
+        "bullets": [
+          "Cutting-edge scientific research in specialized AI fields and publications in leading international journals.",
+          "International collaboration through grants and exchange programs with top global research institutes.",
+          "Preparation for a career in academia or high-tech R&D centers of global corporations."
+        ]
+      },
+      {
+        "level": "Bachelor's Degree GeoAnalytics",
+        "title": "Geoanalytics",
+        "subtitle": "Computer Science and Earth Sciences",
+        "bullets": [
+          "Dual specialization based at the AI Systems and Higher Geodesy departments.",
+          "50% IT block (Python, cloud services, ML) and 50% Geo block (GIS, satellite monitoring).",
+          "Global career prospects: Smart City, AgroTech, ClimateTech, and DefenseTech."
+        ]
+      }
+    ]
+  },
+  "Testimonials": {
+    "title": "Student Testimonials",
+    "students": [
+      {
+        "name": "Yevhenii Orza",
+        "status": "AI Department Student, 3rd year",
+        "text": "The Artificial Intelligence Systems Department truly opens up many opportunities for students. The professors share not only theory but also live cases from the IT industry — this helps immensely in understanding how everything works in practice. There are many directions for growth, so everyone can find their niche. It's also great that with the department's support, you can realistically launch your own startup or develop an original IT project."
+      },
+      {
+        "name": "Oleh Bandrivskyi",
+        "status": "AI Department Student, 3rd year",
+        "text": "Studying at the Artificial Intelligence Systems Department, I realized how right this decision was for my future. Here I don't just gain knowledge, but I also unlock my potential in a rapidly developing field that is of huge importance to the world."
+      },
+      {
+        "name": "Liliana Mirchuk",
+        "status": "AI Department Student, 4th year",
+        "text": "For me, the AI Department means opportunities, great networking, and growth. You really need to study hard, be proactive, and use all the opportunities the department provides. And then — everything will work out!"
+      },
+      {
+        "name": "Andrii Tarasov",
+        "status": "AI Department Graduate",
+        "text": "By studying at the AI Department, you will become familiar with various directions in the field of computer science. You will learn to apply artificial intelligence tools to solve diverse tasks and gain experience working on real projects."
+      },
+      {
+        "name": "Vitalii Mil",
+        "status": "AI Department Graduate",
+        "text": "For me, the most important thing is the people. I believe that your environment shapes your personality, and this department has exactly the kind of people you want to grow and develop with. The education is truly comprehensive — you need to study the theory well."
+      },
+      {
+        "name": "Anastasiia Veretilnyk",
+        "status": "4th Year Student",
+        "text": "Before entering the university, I really wanted to work at SoftServe. The department gave me a solid technical foundation and many different opportunities. Since my 3rd year, I started studying via dual education, combining my studies with work at the company."
+      }
+    ]
+  },
+  "ContactForm": {
+    "title": "Send a Message",
+    "labels": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message"
+    },
+    "sending": "Sending...",
+    "error": "An error occurred while sending. Please try again.",
+    "success": {
+      "title": "Thank you for reaching out!",
+      "message": "Your message has been successfully sent. We will get back to you shortly.",
+      "button": "Send another"
+    },
+    "placeholders": {
+      "name": "John Doe",
+      "email": "example@domain.com",
+      "message": "How can we help you?"
+    },
+    "subjects": {
+      "admission": "Admission Inquiry",
+      "partnership": "Partnership",
+      "general": "General Question"
+    },
+    "submit": "Send Message"
+  },
+  "ContactHero": {
+    "title": "Contacts",
+    "description": "We are always open to communication. Reach out to us for collaborations, inquiries, or just to say hello."
+  },
+  "ContactInfo": {
+    "title": "Get in Touch",
+    "address": {
+      "label": "Address",
+      "value": "5 Kniazia Romana St, bldg. 20",
+      "city": "Lviv, Ukraine, 79000"
+    },
+    "email": {
+      "label": "Email",
+      "value": "ai.dept@lpnu.ua"
+    },
+    "phone": {
+      "label": "Phone",
+      "value": "+38 (032) 258-20-00"
+    },
+    "followUs": "Follow Us"
+  },
+  "ContactMap": {
+    "title": "Interactive Map",
+    "address": "5 Kniazia Romana St, Lviv, Ukraine",
+    "openBtn": "Open in Google Maps"
+  },
+  "ContactResources": {
+    "title": "Useful Resources",
+    "youtube": {
+      "title": "YouTube Channel",
+      "desc": "Lectures, webinars, and student projects"
+    },
+    "linkedin": {
+      "title": "LinkedIn Profile",
+      "desc": "Professional network and career opportunities"
+    },
+    "instagram": {
+      "title": "Instagram",
+      "desc": "Department life, announcements, and real-time events"
+    },
+    "facebook": {
+      "title": "Facebook Page",
+      "desc": "Official news and department activities"
+    },
+    "tiktok": {
+      "title": "TikTok",
+      "desc": "Short videos about AI and student life"
+    },
+    "huggingface": {
+      "title": "Hugging Face Profile",
+      "desc": "Models and datasets from our researchers"
+    }
+  },
+  "RndHero": {
+    "title": "Our Projects",
+    "description": "Discover our specialized research units and ongoing projects. A place where theory meets cutting-edge practical development.",
+    "cta": "View Projects"
+  },
+  "RndPage": {
+    "categories": {
+      "international": "International Projects",
+      "national": "National Projects",
+      "industrial": "Industrial & Student Projects"
+    },
+    "project": {
+      "partner": "Partner:",
+      "lead": "Lead:",
+      "more": "Details"
+    }
+  },
+  "NewsPage": {
+    "hero": {
+      "title1": "Events and",
+      "title2": "News",
+      "desc": "Stay updated on the department's latest events, academic achievements, and new opportunities in the field of AI."
+    },
+    "events": {
+      "title": "Upcoming Events",
+      "subtitle": "Discover opportunities for learning, networking, and professional growth.",
+      "filters": {
+        "all": "All Events",
+        "scientific": "Scientific",
+        "student": "Student"
+      },
+      "register": "Register",
+      "details": "Details",
+      "loadMore": "Load More"
+    }
+  },
+  "NewsArchive": {
+    "title": "News Archive",
+    "viewAll": "All News"
+  },
+  "Partners": {
+    "grid": {
+      "title": "Our Partners",
+      "description": "Collaboration with industry leaders"
+    },
+    "tags": {
+      "projects": "Projects",
+      "internship": "Internship",
+      "dual": "Dual Education",
+      "jobs": "Jobs",
+      "lectures": "Lectures"
+    },
+    "list": {
+      "somatic": "Joint R&D in Computer Vision and Robotics.",
+      "vastai": "Cloud GPU infrastructure for AI research.",
+      "nix": "Partnership in Software Engineering and Data Analytics.",
+      "softserve": "IT Academy integration and dual education.",
+      "google": "Academic programs and cloud certifications.",
+      "nvidia": "Partnership with the Deep Learning Institute.",
+      "epam": "Sponsorship of university programs and laboratories.",
+      "globallogic": "Curriculum development for Embedded and IoT.",
+      "ciklum": "Student projects and technical lectures.",
+      "eleks": "Data Science camps and R&D collaborations.",
+      "aihouse": "Building the AI community and educational initiatives.",
+      "swarmer": "Innovative solutions in drone swarm management.",
+      "squad": "Research and R&D in IoT and security.",
+      "sportsclinic": "Ukrainian Sports Clinic: innovations in medicine and rehabilitation.",
+      "novar": "International consulting company: analytics and business optimization.",
+      "superhumans": "All-Ukrainian modern center for prosthetics and rehabilitation.",
+      "unbroken": "National rehabilitation center: prosthetics and reconstructive surgery."
+    },
+    "cta": {
+      "title": "Ready to innovate?",
+      "description": "Join our ecosystem...",
+      "button": "Become a Partner",
+      "modal": {
+        "emailSubject": "New General Partnership Request",
+        "title": "Partnership Request",
+        "subtitle": "Leave your contacts, and we will get in touch with you.",
+        "nameLabel": "Your Name / Company",
+        "namePlaceholder": "John Doe",
+        "emailLabel": "Email",
+        "emailPlaceholder": "email@company.com",
+        "messageLabel": "Message (Optional)",
+        "messagePlaceholder": "Tell us briefly about your proposal...",
+        "submitBtn": "Send Request",
+        "loadingBtn": "Sending...",
+        "successTitle": "Thank You!",
+        "successMessage": "Your request has been successfully sent. We will contact you shortly to discuss the details.",
+        "errorMessage": "An error occurred while sending. Please try again later.",
+        "closeBtn": "Close"
+      }
+    },
+    "grid": {
+      "title": "Our Partners",
+      "description": "Driving innovation through collaboration."
+    },
+    "tags": {
+      "projects": "Joint Projects",
+      "internship": "Internships",
+      "dual": "Dual Education",
+      "jobs": "Vacancies",
+      "lectures": "Guest Lectures"
+    }
+  },
+  "PartnersHero": {
+    "badge": "Industrial Synergy",
+    "title1": "Partners and",
+    "title2": "Collaboration",
+    "description": "Empowering the next generation of tech leaders through strategic industrial synergy and unparalleled career opportunities at Lviv Polytechnic."
+  },
+  "PartnershipForms": {
+    "title": "Forms of Partnership",
+    "description": "Discover how we can collaborate to shape the future of technology and education.",
+    "items": [
+      {
+        "title": "Guest Lectures",
+        "desc": "Share industry insights, latest trends, and real-world case studies directly with our students, bridging the gap between theory and practice."
+      },
+      {
+        "title": "Dual Education",
+        "desc": "Combine academic studies with practical work experience at your company. Help us tailor our curriculum to meet your specific technical needs."
+      },
+      {
+        "title": "AI Hub Sponsorship",
+        "desc": "Invest in our laboratories and research hubs. Collaborate with faculty and top students on cutting-edge technological challenges."
+      }
+    ]
+  },
+  "ProjectDetails": {
+    "title": "Project Details",
+    "challenge": "The Challenge",
+    "solution": "Our Solution",
+    "results": "The Results"
+  },
+  "ProjectFeatures": {
+    "title": "Key Technologies",
+    "subtitle": "Innovative approaches utilized in development."
+  },
+  "ProjectTeam": {
+    "title": "Research Team"
+  },
+  "ResearchUnits": {
+    "title": "Research Units and Clubs",
+    "subtitle": "Our laboratories and research groups work on solving the most complex tasks in the field of modern intelligent systems.",
+    "gridTitle": "Clubs & Laboratories",
+    "gridDescription": "Choose your direction and join a community of like-minded peers.",
+    "viewDetails": "Learn More",
+    "units": [
+      { "slug": "somatic", "title": "Somatic", "desc": "Our partner. Innovative solutions and joint R&D projects." },
+      { "slug": "data-science-club", "title": "Data Science Club", "desc": "Big data analysis, machine learning, and predictive modeling." },
+      { "slug": "startup-club", "title": "StartUp Club", "desc": "A platform for developing business ideas and launching your own tech products." },
+      { "slug": "milltech-club", "title": "MillTech Club", "desc": "Development of innovative technologies for the defense sector and security." },
+      { "slug": "algorithmic-programming", "title": "Algorithmic Programming", "desc": "Competitive programming, studying complex algorithms and data structures." },
+      { "slug": "go-club", "title": "GO Club", "desc": "A community of developers using the Go (Golang) programming language." },
+      { "slug": "robotics-lab", "title": "Robotics Lab", "desc": "Creating autonomous systems, working with drones and sensors." },
+      { "slug": "ai-lab", "title": "AI Lab", "desc": "Deep study of basic artificial intelligence algorithms and model architectures." },
+      { "slug": "3d-modelling", "title": "3D Modelling Lab", "desc": "Creating 3D models, simulations, and working with computer graphics." },
+      { "slug": "virtual-tour", "title": "360 Virtual Tour", "desc": "Interactive 360-degree tour of our laboratories and facilities." }
+    ]
+  },
+  "UnitsHero": {
+    "badge": "AI Ecosystem",
+    "title": "Research Units",
+    "description": "Specialized laboratories and research groups shaping the future of innovation across various AI domains."
+  },
+  "UnitsResources": {
+    "badge": "Department Resources",
+    "title": "What Our Students Have Access To",
+    "description": "Every AI HUB member gets access to the department's powerful infrastructure for learning and research.",
+    "items": {
+      "gpu": {
+        "title": "GPU Cluster",
+        "desc": "Access to NVIDIA GPUs for training neural networks and heavy computation."
+      },
+      "llm": {
+        "title": "LLM APIs",
+        "desc": "Large language model APIs for research and educational projects."
+      },
+      "datasets": {
+        "title": "Datasets",
+        "desc": "Internal and partner datasets for Machine Learning tasks."
+      },
+      "software": {
+        "title": "Software & Licenses",
+        "desc": "Professional tools, cloud services, and subscriptions for development."
+      },
+      "hardware": {
+        "title": "Hardware",
+        "desc": "Microcontrollers, sensors, drones, and robotics platforms."
+      },
+      "more": {
+        "title": "And Much More",
+        "desc": "Mentorship, conferences, grant funding, and international internships."
+      }
+    }
+  },
+  "About": {
+    "badge": "About the Department",
+    "title": "Our Mission and Vision",
+    "missionTitle": "Mission",
+    "missionDesc": "The Department of Artificial Intelligence Systems (AIS) at the Institute of Computer Science and Information Technologies, Lviv Polytechnic National University, prepares highly qualified specialists in the field of artificial intelligence.",
+    "visionTitle": "Vision",
+    "visionDesc": "We strive to create an ecosystem where academic knowledge merges with practical research and innovation, preparing leaders capable of solving today's most complex challenges using intelligent systems.",
+    "cta": "Learn More",
+    "stats": {
+      "value": "9",
+      "label": "Years of Experience"
+    }
+  },
+  "Hero": {
+    "titleLine1": "Department of",
+    "titleLine2": "Artificial Intelligence",
+    "description": "We are shaping a new generation of AI professionals who build the technologies of the future at Lviv Polytechnic.",
+    "cta": {
+      "education": "Education",
+      "projects": "Projects",
+      "rnd": "AI HUB"
+    }
+  },
+  "Education": {
+    "title": "Educational Programs",
+    "subtitle": "Comprehensive training for specialists at all levels according to modern global standards and industry practices.",
+    "cta": "Learn More",
+    "programs": [
+      {
+        "title": "Bachelor's Program",
+        "desc": "Fundamental training in computer science, algorithm development, and machine learning.",
+        "details": [
+          "4 years of study",
+          "F3 Computer Science"
+        ]
+      },
+      {
+        "title": "Master's Program",
+        "desc": "In-depth study of artificial intelligence systems, neural network architectures, and big data analysis.",
+        "details": [
+          "1.5 years of study",
+          "Scientific and research work"
+        ]
+      },
+      {
+        "title": "PhD Program",
+        "desc": "Preparation of Doctors of Philosophy for advanced scientific and teaching activities in the field of AI.",
+        "details": [
+          "4 years of research",
+          "International grants"
+        ]
+      }
+    ]
+  },
+  "RnD": {
+    "badge": "Innovation",
+    "title": "AI HUB",
+    "description": "A center for practical development where students work on real-world projects in collaboration with businesses to create the technologies of the future.",
+    "button": "All Laboratories",
+    "labs": [
+      {
+        "title": "Robotics Lab",
+        "desc": "Development of autonomous systems, manipulators, and AI-based drones."
+      },
+      {
+        "title": "AI Lab",
+        "desc": "Deep learning, neural networks, and decision-making systems."
+      },
+      {
+        "title": "Data Science",
+        "desc": "Big data analysis, predictive analytics, and visualization."
+      },
+      {
+        "title": "NLP Unit",
+        "desc": "Natural language processing, chatbots, and large language models."
+      }
+    ]
+  },
+  "FeaturedProjects": {
+    "title": "Projects and Development",
+    "subtitle": "The results of scientific and practical activities of our researchers in synergy with the industry.",
+    "viewProject": "View Project",
+    "viewAll": "All Projects"
+  },
+  "PartnersCarousel": {
+    "title": "Our Partners"
+  },
+  "Donate": {
+    "badge": "Support Our Department",
+    "title": "Make a Charitable Donation Today!",
+    "description": "For those who wish to make a donation to the department's charitable fund, you can do so using the following details:",
+    "fields": {
+      "recipient": "Recipient",
+      "edrpou": "Identification code",
+      "mfo": "Bank code",
+      "iban": "IBAN",
+      "purpose": "Purpose of payment",
+      "email": "Email",
+      "address": "Address"
+    },
+    "values": {
+      "recipient": "CHARITABLE ORGANIZATION \"CHARITABLE FUND OF THE AI DEPARTMENT\"",
+      "purpose": "\"Voluntary donations\""
+    },
+    "copied": "Copied!"
+  },
+  "TeamDirectory": {
+    "searchPlaceholder": "Search by name or position...",
+    "noResults": "No faculty members found.",
+    "detailsBtn": "Details",
+    "modal": {
+      "contacts": "Contacts and Profiles:",
+      "subjects": "Teaching Subjects:",
+      "biography": "Biography and Achievements:",
+      "interests": "Scientific Interests:",
+      "works": "Selected Scientific Works:",
+      "readWork": "Read work",
+      "personalSite": "Personal Website",
+      "emailTitle": "Send Email",
+      "orcidTitle": "ORCID Profile",
+      "linkedinTitle": "LinkedIn Profile",
+      "facebookTitle": "Facebook Profile",
+      "wikiTitle": "Wikipedia Page"
+    }
+  },
+  "TeamHero": {
+    "titleLine1": "Department",
+    "titleLine2": "Team",
+    "description": "Meet the academic staff, researchers, and industry experts dedicated to advancing artificial intelligence systems."
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: March 10, 2026",
+    "sections": [
+      {
+        "title": "1. Introduction",
+        "content": "The Department of Artificial Intelligence Systems (AIS) at Lviv Polytechnic National University respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard information when you visit our website."
+      },
+      {
+        "title": "2. Information We Collect",
+        "content": "We may collect the following types of information:\n\n• Personal data you voluntarily provide via the contact form (name, email address, message content).\n• Technical data automatically collected during your visit (IP address, browser type, device information, pages visited).\n• Cookies and similar tracking technologies used to improve site functionality."
+      },
+      {
+        "title": "3. How We Use Your Information",
+        "content": "We use the collected information to:\n\n• Respond to your inquiries submitted through the contact form.\n• Improve and optimize our website experience.\n• Analyze website traffic and usage patterns.\n• Comply with legal obligations."
+      },
+      {
+        "title": "4. Data Sharing",
+        "content": "We do not sell, trade, or rent your personal information to third parties. We may share data only when required by law or with trusted service providers who assist in operating our website, subject to confidentiality agreements."
+      },
+      {
+        "title": "5. Data Security",
+        "content": "We implement appropriate technical and organizational measures to protect your personal data against unauthorized access, alteration, disclosure, or destruction."
+      },
+      {
+        "title": "6. Your Rights",
+        "content": "You have the right to:\n\n• Access the personal data we hold about you.\n• Request correction or deletion of your data.\n• Withdraw consent for data processing at any time.\n• Lodge a complaint with a supervisory authority.\n\nTo exercise these rights, contact us at ai.dept@lpnu.ua."
+      },
+      {
+        "title": "7. Cookies",
+        "content": "Our website uses cookies to enhance your browsing experience. You can manage cookie preferences through your browser settings. Disabling cookies may affect some website functionality."
+      },
+      {
+        "title": "8. Changes to This Policy",
+        "content": "We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date."
+      }
+    ]
+  },
+  "TermsOfUse": {
+    "title": "Terms of Use",
+    "lastUpdated": "Last updated: March 10, 2026",
+    "sections": [
+      {
+        "title": "1. Acceptance of Terms",
+        "content": "By accessing and using the website of the Department of Artificial Intelligence Systems (AIS) at Lviv Polytechnic National University, you agree to comply with and be bound by these Terms of Use."
+      },
+      {
+        "title": "2. Intellectual Property",
+        "content": "All content on this website, including text, graphics, logos, images, and software, is the property of the Department of AIS or its content providers and is protected by intellectual property laws. Unauthorized reproduction or distribution is prohibited."
+      },
+      {
+        "title": "3. Permitted Use",
+        "content": "You may use this website for personal, non-commercial, and informational purposes. You agree not to:\n\n• Copy, modify, or distribute website content without authorization.\n• Use the website for any unlawful purpose.\n• Attempt to gain unauthorized access to any part of the website.\n• Interfere with the website's operation or security."
+      },
+      {
+        "title": "4. User-Submitted Content",
+        "content": "By submitting information through the contact form or other means, you grant us the right to use this information to respond to your inquiry. You are responsible for ensuring that any information you provide is accurate and does not violate the rights of third parties."
+      },
+      {
+        "title": "5. Disclaimer of Warranties",
+        "content": "This website is provided \"as is\" without any warranties, express or implied. We do not guarantee that the website will be uninterrupted, error-free, or free of harmful components."
+      },
+      {
+        "title": "6. Limitation of Liability",
+        "content": "The Department of AIS shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of or inability to use this website."
+      },
+      {
+        "title": "7. External Links",
+        "content": "Our website may contain links to third-party websites. We are not responsible for the content or privacy practices of these external sites."
+      },
+      {
+        "title": "8. Governing Law",
+        "content": "These Terms of Use are governed by the laws of Ukraine. Any disputes shall be resolved in the courts of competent jurisdiction in Lviv, Ukraine."
+      },
+      {
+        "title": "9. Changes to Terms",
+        "content": "We reserve the right to modify these Terms of Use at any time. Continued use of the website after changes constitutes acceptance of the revised terms."
+      }
+    ]
+  },
+  "BachelorPageDetails": {
+    "hero": {
+      "badge": "Bachelor's Degree",
+      "program": "“ARTIFICIAL INTELLIGENCE”",
+      "specialty": "Specialty: F3 Computer Science.",
+      "title": "Bachelor of Computer Science (Artificial Intelligence Systems).",
+      "seats": "120",
+      "seatsLabel": "Licensed enrollment capacity"
+    },
+    "mission": {
+      "title": "🎯 Goal",
+      "desc": "Our program is a unique opportunity to master artificial intelligence technologies and turn knowledge into practice. You will gain not just theory, but real skills in developing AI solutions in machine learning, NLP, CV, Big Data, and much more."
+    },
+    "skills": {
+      "title": "📚 What you will learn",
+      "items": [
+        "Machine Learning, NLP, Computer Vision",
+        "AI libraries: TensorFlow, PyTorch, OpenCV, etc.",
+        "Cloud services: AWS, Azure, GCP",
+        "Data Engineering, AI Ethics, Data Visualization",
+        "Microcontrollers: Arduino, Jetson, Raspberry",
+        "Soft Skills: teamwork, presentations, management"
+      ]
+    },
+    "initiatives": {
+      "title": "Key Initiatives of the Department",
+      "footer": "The AI Systems Department forms not only highly qualified specialists but also innovators, researchers, and entrepreneurs ready to create the future of artificial intelligence.",
+      "items": [
+        { "num": "#1", "title": "Strong teaching team", "desc": "Instructors are experts with experience in projects and conferences, combining academic and practical knowledge to inspire students toward innovation." },
+        { "num": "#2", "title": "Educational program with SoftServe", "desc": "The joint program allows students to gain knowledge directly from practitioners and complete real project tasks with company experts." },
+        { "num": "#3", "title": "Dual education", "desc": "Combining study and practice in IT companies. Students build their careers while studying." },
+        { "num": "#4", "title": "Project-based learning", "desc": "Courses include real projects under the mentorship of business representatives, forming practical skills to meet market needs." },
+        { "num": "#5", "title": "AI-Incubator", "desc": "A platform for developing startups, research, and AI products. Students receive mentorship, resources, and support to implement their ideas." },
+        { "num": "#6", "title": "Data Science Club", "desc": "A horizontal culture of knowledge sharing is formed. Senior students help juniors with machine learning, analytics, and AI." },
+        { "num": "#7", "title": "Robotics LAB", "desc": "A practical laboratory for developing robotics solutions using sensors, AI, and modern platforms (Jetson, Raspberry Pi, etc.)." },
+        { "num": "#8", "title": "StartUP", "desc": "A platform for developing business ideas where students pitch their startups to potential investors and get real opportunities for development and promotion." }
+      ]
+    },
+    "career": {
+      "title": "🚀 Career Opportunities",
+      "desc": "After graduation, you will be able to work in IT companies, research centers, financial institutions, medical laboratories, and other high-tech fields.",
+      "roles": [
+        "Data Scientist",
+        "Machine Learning Engineer",
+        "Computer Vision Engineer",
+        "NLP Engineer",
+        "Robotics Engineer",
+        "Big Data Engineer",
+        "AI Researcher",
+        "AI Product Manager",
+        "AI Ethics & Compliance Specialist"
+      ]
+    },
+    "quotes": {
+      "melnykova": {
+        "name": "Nataliia Melnykova",
+        "role": "Head of the AI Systems Department",
+        "text": "“The Artificial Intelligence Systems Department is a powerful educational and scientific hub that creates a unique environment for developing talent in AI and IT. It actively implements innovative learning models, combining academic training with practical interaction with the IT industry.”"
+      },
+      "shakhovska": {
+        "name": "Nataliia Shakhovska",
+        "role": "Rector, Curator of the AI program",
+        "text": "“Artificial intelligence is a trend that, according to global analytical companies, will become commonplace in everyday life by 2050. Our graduates receive fundamental knowledge that they know how to apply in practice.”"
+      }
+    },
+    "galleryTitle": "Student life and practice"
+  },
+  "MasterPage": {
+    "hero": {
+      "badge": "Master's Degree",
+      "program": "“ARTIFICIAL INTELLIGENCE”",
+      "specialty": "Specialty: F3 Computer Science.",
+      "title": "Master of Computer Science (Artificial Intelligence Systems).",
+      "seats": "75",
+      "seatsLabel": "Licensed enrollment capacity"
+    },
+    "mission": {
+      "title": "🎯 Goal",
+      "desc": "Our program is a unique opportunity to master artificial intelligence technologies and turn knowledge into practice. You will gain not just theory, but real skills in developing AI solutions in machine learning, NLP, CV, Big Data, and much more."
+    },
+    "advantages": {
+      "title": "Unique advantages of the developed program",
+      "footer": "These opportunities help build a quality career, gain practical knowledge, international recognition, and experience in a real business environment.",
+      "items": [
+        { "num": "#1", "title": "Innovation Educational Platform", "desc": "An innovative educational platform for modern learning." },
+        { "num": "#2", "title": "Course base for self-study", "desc": "Access to a vast amount of materials for individual study." },
+        { "num": "#3", "title": "Theoretical & practical Technical Leadership disciplines", "desc": "A combination of leadership and technical expertise in courses." },
+        { "num": "#4", "title": "POC → Prototype → MVP: Building AI Solutions", "desc": "Step-by-step development of AI solutions from concept to MVP." },
+        { "num": "#5", "title": "Continuous course updates", "desc": "Courses are regularly updated according to modern trends." },
+        { "num": "#6", "title": "Business and academic trips", "desc": "Participation in trips to exchange experience in a real environment." },
+        { "num": "#7", "title": "International certifications", "desc": "Confirmation of knowledge and skills with international standards." },
+        { "num": "#8", "title": "Double degree program", "desc": "Opportunity to receive a diploma from several partner institutions." }
+      ]
+    },
+    "career": {
+      "title": "Career Opportunities",
+      "desc": "You will be able to build a career in one of the technical or management directions — from Software Engineer to Engineering Manager or Solutions Architect.",
+      "roles": [
+        "Associate Technical Architect",
+        "Technical Architect",
+        "Solutions Architect",
+        "AI – Associate R&D Engineer",
+        "AI – R&D Engineer",
+        "AI – Expert R&D Engineer",
+        "Associate Technical Lead",
+        "Technical Lead",
+        "Senior Technical Lead",
+        "Engineering Manager",
+        "Software Engineer",
+        "Senior Software Engineer"
+      ]
+    },
+    "quotes": {
+      "melnykova": {
+        "name": "Nataliia Melnykova",
+        "role": "Head of the AI Systems Department",
+        "text": "“The Artificial Intelligence Systems Department is a powerful educational and scientific hub that creates a unique environment for developing talent in AI and IT. It actively implements innovative learning models, combining academic training with practical interaction with the IT industry.”"
+      },
+      "shakhovska": {
+        "name": "Nataliia Shakhovska",
+        "role": "Rector, Curator of the AI program",
+        "text": "“Artificial intelligence is a trend that, according to global analytical companies, will become commonplace in everyday life by 2050. Our graduates receive fundamental knowledge that they know how to apply in practice.”"
+      }
+    },
+    "galleryTitle": "Our Environment"
+  },
+  "UnitDetails": {
+    "data-science-club": {
+      "hero": {
+        "title": "Data Science Club",
+        "subtitle": "Big data analysis, machine learning, and predictive modeling for solving real business problems."
+      },
+      "about": {
+        "desc1": "A community of data enthusiasts based at the AI Systems Department. Here we learn to work with massive datasets, build neural networks, and find hidden patterns in the chaos of raw data.",
+        "desc2": "We work with real datasets, study modern frameworks (Pandas, Scikit-learn, TensorFlow), and participate in Kaggle competitions.",
+        "mission": "To transform raw data into valuable insights and prepare specialists capable of making data-driven decisions."
+      },
+      "areas": {
+        "area0": { "icon": "query_stats", "title": "Machine Learning", "desc": "Building and optimizing predictive models: from linear regression to complex ensembles." },
+        "area1": { "icon": "insights", "title": "Data Analytics", "desc": "Cleaning, transforming, and deeply analyzing data to uncover non-obvious patterns." },
+        "area2": { "icon": "bubble_chart", "title": "Data Visualization", "desc": "Creating interactive dashboards and visualizing complex relationships for business." }
+      }
+    },
+    "startup-club": {
+      "hero": {
+        "title": "StartUp Club",
+        "subtitle": "A platform for developing business ideas, forming teams, and launching your own tech products."
+      },
+      "about": {
+        "desc1": "This is not just a club, it's a real IT incubator. If you have an idea for an app, service, or AI product, we will help you take it from concept to a working MVP.",
+        "desc2": "We learn to validate hypotheses, analyze the market, build business models, and prepare pitches for future investors.",
+        "mission": "To inspire students towards entrepreneurship and provide mentorship support for launching successful startups while still studying."
+      },
+      "areas": {
+        "area0": { "icon": "lightbulb", "title": "Product Discovery", "desc": "Idea generation, Customer Development, and verifying product viability at early stages." },
+        "area1": { "icon": "trending_up", "title": "Go-To-Market", "desc": "Building a business model, monetization strategy, and attracting early adopters." },
+        "area2": { "icon": "campaign", "title": "Pitching & Fundraising", "desc": "The art of product presentation. How to properly communicate with investors and raise funds." }
+      }
+    },
+    "milltech-club": {
+      "hero": {
+        "title": "MillTech Club",
+        "subtitle": "Development of innovative technologies and R&D solutions for defense and security systems."
+      },
+      "about": {
+        "desc1": "A club focused on creating dual-use technologies. We work on hardware and software complexes that help protect lives and automate complex processes.",
+        "desc2": "Working with UAVs, secure communication systems, electronic intelligence, and computer vision in harsh environments.",
+        "mission": "Enhancing security and defense capabilities through the implementation of cutting-edge AI technologies and automation."
+      },
+      "areas": {
+        "area0": { "icon": "flight", "title": "UAV Systems", "desc": "Drone programming, flight task automation, and payload integration." },
+        "area1": { "icon": "radar", "title": "Signal Processing", "desc": "Signal processing, secure communications, and electronic monitoring systems." },
+        "area2": { "icon": "shield", "title": "Tactical AI", "desc": "Applying artificial intelligence for video stream analysis and rapid decision-making." }
+      }
+    },
+    "algorithmic-programming": {
+      "hero": {
+        "title": "Algorithmic Programming",
+        "subtitle": "Competitive programming, studying complex algorithms and data structures at a professional level."
+      },
+      "about": {
+        "desc1": "The perfect place for those who want to level up their algorithmic thinking. We prepare for international programming olympiads (ICPC) and solve complex problems.",
+        "desc2": "Regular problem breakdowns from LeetCode and Codeforces. Studying dynamic programming, graph theory, and code optimization.",
+        "mission": "To raise an elite group of programmers with flawless logical thinking, ready to pass interviews at top global companies (FAANG)."
+      },
+      "areas": {
+        "area0": { "icon": "account_tree", "title": "Data Structures", "desc": "Deep understanding of trees, graphs, hash tables, and their effective application in practice." },
+        "area1": { "icon": "speed", "title": "Algorithm Optimization", "desc": "Complexity analysis (Big O) and writing the fastest and most optimized code possible." },
+        "area2": { "icon": "emoji_events", "title": "Competitive Coding", "desc": "Participation in hackathons, online contests, and competitive programming olympiads." }
+      }
+    },
+    "go-club": {
+      "hero": {
+        "title": "GO Club",
+        "subtitle": "A community of backend developers. We study the Go (Golang) programming language and cloud technologies."
+      },
+      "about": {
+        "desc1": "A club for those who want to learn how to create fast, reliable, and high-load server applications. Go is the standard for modern cloud infrastructure.",
+        "desc2": "We develop microservices, work with Docker, Kubernetes, and create real APIs for student projects.",
+        "mission": "Forming a strong community of backend engineers capable of developing scalable Cloud Native solutions."
+      },
+      "areas": {
+        "area0": { "icon": "dns", "title": "Backend Engineering", "desc": "Designing REST and gRPC APIs, working with databases (PostgreSQL, Redis)." },
+        "area1": { "icon": "lan", "title": "Microservices", "desc": "Developing distributed systems, inter-service communication, and message brokers (Kafka)." },
+        "area2": { "icon": "cloud", "title": "Cloud Native", "desc": "Application containerization (Docker) and deployment in a cloud environment." }
+      }
+    },
+    "robotics-lab": {
+      "hero": {
+        "title": "Robotics Lab",
+        "subtitle": "Creating autonomous systems, working with drones, microcontrollers, and sensors."
+      },
+      "about": {
+        "desc1": "A modern laboratory where the boundary between software code and the physical world fades. We create robots, smart devices, and IoT systems.",
+        "desc2": "Practical work with Arduino, Raspberry Pi, Jetson Nano boards, and the Robot Operating System (ROS).",
+        "mission": "To provide students with the tools and knowledge to develop intelligent autonomous mechanisms."
+      },
+      "areas": {
+        "area0": { "icon": "precision_manufacturing", "title": "Hardware Development", "desc": "Circuit design, soldering, working with servos and various types of sensors." },
+        "area1": { "icon": "memory", "title": "Embedded Systems", "desc": "Low-level programming of microcontrollers (C/C++) and sensor integration." },
+        "area2": { "icon": "smart_toy", "title": "Autonomous Navigation", "desc": "SLAM algorithms for robot spatial orientation without using GPS." }
+      }
+    },
+    "ai-lab": {
+      "hero": {
+        "title": "AI Lab",
+        "subtitle": "Deep study of artificial intelligence algorithms, model architectures, and natural language processing."
+      },
+      "about": {
+        "desc1": "A hub for fundamental and applied research in AI. We look under the hood of neural networks and create our own architectures.",
+        "desc2": "Focus on Computer Vision (object recognition), NLP (text understanding, chatbot creation), and generative AI.",
+        "mission": "To make complex AI concepts accessible for understanding and practical use in student R&D projects."
+      },
+      "areas": {
+        "area0": { "icon": "psychology", "title": "Deep Learning", "desc": "Training deep neural networks, weight optimization, and hyperparameter tuning." },
+        "area1": { "icon": "translate", "title": "NLP Solutions", "desc": "Working with Large Language Models (LLM), sentiment analysis, and machine translation." },
+        "area2": { "icon": "visibility", "title": "Computer Vision", "desc": "Facial recognition systems, anomaly detection in video, and image segmentation." }
+      }
+    },
+    "3d-modelling": {
+      "hero": {
+        "title": "3D Modelling Lab",
+        "subtitle": "Creating 3D models, simulations, virtual reality, and computer graphics."
+      },
+      "about": {
+        "desc1": "A creative space for those who combine art with technology. We create assets for games, metaverses, and scientific simulations.",
+        "desc2": "We work in Blender, ZBrush, and study Unity and Unreal Engine. We develop digital twins of physical objects.",
+        "mission": "To teach students how to visualize the future through high-quality 3D graphics and immersive simulations."
+      },
+      "areas": {
+        "area0": { "icon": "architecture", "title": "3D Design", "desc": "Sculpting, object modeling, texture creation, and lighting setup." },
+        "area1": { "icon": "view_in_ar", "title": "VR / AR", "desc": "Developing virtual and augmented reality applications for Oculus headsets and mobile devices." },
+        "area2": { "icon": "360", "title": "Physics Simulation", "desc": "Software simulation of physical processes, gravity, and fluids for robotics and the gaming industry." }
+      }
+    }
+  },
+  "UnitCommon": {
+    "aboutTitle": "About the Unit",
+    "missionTitle": "Our Mission",
+    "badge": "AI Ecosystem",
+    "areasTitle": "Key Research Areas",
+    "areasSubtitle": "Focusing our expertise on the most promising and impactful domains of IT."
+  },
+  "VirtualTour": {
+    "title": "360° Virtual Tour",
+    "subtitle": "Explore our department's facilities and laboratories through an interactive 360-degree tour.",
+    "badge": "Interactive Experience"
+  },
+  "NewsDetail": {
+    "backToNews": "Back to all news",
+    "published": "Published",
+    "notFound": "News Not Found"
+  },
+  "Metadata": {
+    "home": {
+      "title": "Department of Artificial Intelligence Systems",
+      "description": "AI Department at Lviv Polytechnic — education, research and innovation in artificial intelligence. Bachelor's, Master's programs, scientific projects."
+    },
+    "about": {
+      "title": "About the Department",
+      "description": "Mission, research directions and faculty of the Department of Artificial Intelligence Systems at Lviv Polytechnic National University."
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "Faculty and researchers of the Department of AI Systems — our academic team shaping the future of artificial intelligence."
+    },
+    "applicants": {
+      "title": "For Applicants",
+      "description": "Educational programs at the AI Department: Bachelor's and Master's in artificial intelligence. Admission info for Lviv Polytechnic."
+    },
+    "bachelors": {
+      "title": "Bachelor's Program",
+      "description": "Bachelor's program in artificial intelligence: curriculum, courses, career opportunities. AI Department at Lviv Polytechnic."
+    },
+    "masters": {
+      "title": "Master's Program",
+      "description": "Master's program in artificial intelligence: specializations, research projects, career prospects. AI Department at Lviv Polytechnic."
+    },
+    "geoanalytics": {
+      "title": "Geoanalytics | Department of AI Systems",
+      "description": "Innovative interdisciplinary bachelor's program 'Geoanalytics' at the intersection of computer science and Earth sciences."
+    },
+    "rnd": {
+      "title": "Projects",
+      "description": "Research and applied projects of the AI Department: international, national and industrial studies in artificial intelligence."
+    },
+    "researchUnits": {
+      "title": "AI HUB",
+      "description": "Student clubs and research labs of the AI HUB: robotics, Data Science, programming, 3D modelling at Lviv Polytechnic."
+    },
+    "news": {
+      "title": "News",
+      "description": "Latest news, events and achievements of the Department of Artificial Intelligence Systems at Lviv Polytechnic."
+    },
+    "contacts": {
+      "title": "Contacts",
+      "description": "Get in touch with the Department of AI Systems at Lviv Polytechnic: address, email, contact form."
+    },
+    "partners": {
+      "title": "Partners",
+      "description": "Partners of the AI Department: international and Ukrainian companies, universities and organizations we collaborate with."
+    },
+    "donate": {
+      "title": "Support the Department",
+      "description": "Support the development of the AI Department at Lviv Polytechnic: bank details for charitable contributions."
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy",
+      "description": "Privacy policy for the website of the Department of Artificial Intelligence Systems at Lviv Polytechnic."
+    },
+    "termsOfUse": {
+      "title": "Terms of Use",
+      "description": "Terms of use for the website of the Department of Artificial Intelligence Systems at Lviv Polytechnic."
+    },
+    "tour": {
+      "title": "360 Virtual Tour of the AI Systems Department",
+      "description": "Experience an immersive 360-degree interactive tour of the Department of Artificial Intelligence Systems at Lviv Polytechnic. Explore our state-of-the-art labs, classrooms, and student spaces."
+    },
+    "siteName": "AI Department — Lviv Polytechnic"
+  },
+  "geoanalytics": {
+    "title": "Geoanalytics",
+    "description": "Innovative interdisciplinary bachelor's program 'Geoanalytics' at the intersection of computer science and Earth sciences."
+  },
+  "GeoPage": {
+    "hero": {
+      "badge": "Innovative Interdisciplinary Program",
+      "program": "Computer Science. Geoanalytics (F3/E4)",
+      "title": "Geoanalytics",
+      "specialty": "The future of IT at the intersection of Computer Science and Earth Sciences. Joint program of the AI Systems and Higher Geodesy departments.",
+      "seats": "Bachelor's Degree",
+      "seatsLabel": "2026-2027 Academic Year"
+    },
+    "mission": {
+      "title": "Specialist Profile & Key Competencies",
+      "desc": "Training unique specialists with practical skills for developing solutions in environmental monitoring, smart infrastructure, and resource management based on two institutes of Lviv Polytechnic."
+    },
+    "advantages": {
+      "title": "Key Training Areas",
+      "items": {
+        "0": { "num": "50/50", "title": "Study Structure", "desc": "Equal combination of IT and Geo blocks to train interdisciplinary specialists." },
+        "1": { "num": "AI", "title": "Artificial Intelligence", "desc": "Creating models for image classification, forecasting, and automated satellite data analysis." },
+        "2": { "num": "Data", "title": "Big Data & ML", "desc": "Analyzing massive geospatial datasets to identify patterns and make decisions." },
+        "3": { "num": "GIS", "title": "Geospatial Analysis", "desc": "Working with GIS technologies and spatial databases for natural process modeling." },
+        "4": { "num": "SAR", "title": "Satellite Monitoring", "desc": "Using SAR technologies and analyzing images from satellites and drones." },
+        "5": { "num": "Cloud", "title": "Cloud Services", "desc": "Developing info-system architectures and using analytical data warehouses." },
+        "6": { "num": "Safe", "title": "Ecology & Safety", "desc": "Solving complex tasks in soil erosion monitoring and industrial risk analysis." },
+        "7": { "num": "Dev", "title": "MLOps", "desc": "Full development cycle: from image processing to machine learning model deployment." }
+      },
+      "footer": "Geoanalytics is the integration of modern IT solutions and geospatial analysis for strategic industries."
+    },
+    "career": {
+      "title": "Career Prospects in Strategic Industries",
+      "desc": "Graduates are ready to work in sectors shaping the future of technology for the next 5–10 years.",
+      "roles": {
+        "0": "Geodata Analyst",
+        "1": "ML Engineer",
+        "2": "GIS Developer",
+        "3": "Computer Vision Specialist",
+        "4": "Smart City Analyst",
+        "5": "AgroTech Specialist",
+        "6": "ClimateTech Developer",
+        "7": "EnergyTech Engineer",
+        "8": "DefenseTech Specialist",
+        "9": "Eco-monitoring Analyst",
+        "10": "Geological Surveyor (Digital)",
+        "11": "R&D Researcher"
+      }
+    },
+    "quotes": {
+      "melnykova": {
+        "text": "Geoanalytics allows combining programming skills with a deep understanding of geographic information systems to solve safety and environmental tasks.",
+        "name": "Geoanalytics Direction",
+        "role": "Earth Sciences"
+      },
+      "shakhovska": {
+        "text": "We create specialists capable of automating the analysis of petabytes of data generated daily by satellites, drones, and sensors.",
+        "name": "Computer Science Direction",
+        "role": "Artificial Intelligence"
+      }
+    },
+    "galleryTitle": "Interdisciplinary Educational Program"
+  },
+  "AboutPresentation": {
+    "title": "Department Presentation",
+    "description": "View our presentation to learn more about our achievements and plans."
+  }
+}
+re about our achievements and plans."
+  }
+}
