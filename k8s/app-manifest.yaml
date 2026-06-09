@@ -142,7 +142,7 @@ metadata:
   annotations:
     traefik.ingress.kubernetes.io/router.entrypoints: web,websecure
 spec:
-  ingressClassName: kommander-traefik
+  ingressClassName: traefik
   tls:
     - hosts:
         - "app.thesis-i.com"
