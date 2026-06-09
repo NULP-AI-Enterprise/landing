@@ -59,6 +59,8 @@ spec:
         app.kubernetes.io/version: "1.16.0"
         app.kubernetes.io/managed-by: Helm
     spec:
+      imagePullSecrets:
+        - name: ghcr-secret
       serviceAccountName: department-web-front-end
       securityContext:
         {}

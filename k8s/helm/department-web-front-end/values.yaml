@@ -12,7 +12,8 @@ image:
   tag: latest
   pullPolicy: Always
 
-imagePullSecrets: []
+imagePullSecrets:
+  - name: ghcr-secret
 
 # This is to override the chart name.
 nameOverride: ""
