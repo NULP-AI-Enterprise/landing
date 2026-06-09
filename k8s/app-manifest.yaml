@@ -76,12 +76,9 @@ spec:
               protocol: TCP
           env:
             - name: API_KEY
-              valueFrom:
-                secretKeyRef:
-                  key: api-key
-                  name: ai-proxy-secret
+              value: "dummy-api-key"
             - name: BACKEND_URL
-              value: http://ai-proxy.ai-proxy.svc.cluster.local:8080
+              value: "http://localhost:8080"
           startupProbe:
             failureThreshold: 30
             periodSeconds: 10

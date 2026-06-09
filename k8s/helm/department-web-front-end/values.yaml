@@ -87,12 +87,9 @@ ingress:
 
 env:
     - name: API_KEY
-      valueFrom:
-        secretKeyRef:
-          name: ai-proxy-secret
-          key: api-key
+      value: "dummy-api-key"
     - name: BACKEND_URL
-      value: "http://ai-proxy.ai-proxy.svc.cluster.local:8080"
+      value: "http://localhost:8080"
 
 resources:
   requests:
