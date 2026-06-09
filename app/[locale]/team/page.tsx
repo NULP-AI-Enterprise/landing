@@ -31,54 +31,7 @@ export function generateStaticParams() {
 }
 
 async function getTeamMembers(locale: string) {
-    try {
-        const validLangs = locale === 'uk' ? ['uk', 'ua'] : ['en'];
-
-        let allMembers: any[] = [];
-        let currentPage = 1;
-        let totalPages = 1;
-
-        const baseUrl = process.env.API_URL || process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080';
-
-        while (currentPage <= totalPages) {
-            const url = `${baseUrl}/department-web-api/teachers/v1?pageSize=30&pageNumber=${currentPage}`;
-
-            const res = await fetch(url, {
-                next: { revalidate: 60 }
-            });
-
-            if (!res.ok) {
-                console.error(`API Error on page ${currentPage}: ${res.status}`);
-                break;
-            }
-
-            const data = await res.json();
-
-            if (data.content && Array.isArray(data.content)) {
-                allMembers = [...allMembers, ...data.content];
-            }
-
-            const fetchedTotalPages = data.totalPages ?? data.page?.totalPages;
-
-            if (typeof fetchedTotalPages === 'number') {
-                totalPages = fetchedTotalPages;
-                if (totalPages === 0) break;
-            } else {
-                break; // Якщо бекенд не віддав інформацію про сторінки, виходимо
-            }
-
-            currentPage++;
-        }
-
-        // Фільтруємо за масивом валідних мов
-        const filteredByLanguage = allMembers.filter(member => validLangs.includes(member.language));
-
-        return filteredByLanguage;
-
-    } catch (e) {
-        console.error("Failed to fetch team members from API:", e);
-        return [];
-    }
+    return [];
 }
 
 export default async function TeamPage({ params }: { params: Promise<{ locale: string }> }) {

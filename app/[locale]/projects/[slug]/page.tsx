@@ -12,17 +12,7 @@ const SITE_URL = 'https://app.thesis-i.com';
 const API_INTERNAL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080';
 
 async function getProjectBySlug(slug: string) {
-    try {
-        const res = await fetch(`${API_INTERNAL}/department-web-api/projects/v1?pageNumber=1&pageSize=1000`, { cache: 'no-store' });
-        if (!res.ok) return null;
-
-        const data = await res.json();
-        const projects = data.content || [];
-        return projects.find((p: any) => p.slug === slug) || null;
-    } catch (e) {
-        console.error("Помилка завантаження проєкту:", e);
-        return null;
-    }
+    return null;
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {

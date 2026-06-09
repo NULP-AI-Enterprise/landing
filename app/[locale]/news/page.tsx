@@ -33,17 +33,7 @@ export function generateStaticParams() {
 }
 
 async function getNews() {
-    try {
-        const res = await fetch(`${API_INTERNAL}/department-web-api/news/v1?pageNumber=1&pageSize=100`, {
-            cache: 'no-store'
-        });
-        if (!res.ok) return [];
-        const data = await res.json();
-        return data.content || [];
-    } catch (e) {
-        console.error("Помилка завантаження новин:", e);
-        return [];
-    }
+    return [];
 }
 
 export default async function NewsPage({ params }: { params: Promise<{ locale: string }> }) {

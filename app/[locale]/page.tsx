@@ -37,29 +37,7 @@ export function generateStaticParams() {
 }
 
 async function getLatestProjects(locale: string) {
-    try {
-        const res = await fetch(`${API_INTERNAL}/department-web-api/projects/v1?pageNumber=1&pageSize=20`, {
-            cache: 'no-store'
-        });
-
-        if (!res.ok) return [];
-
-        const data = await res.json();
-        const allProjects = data.content || [];
-
-        return allProjects
-            .filter((proj: any) => {
-                if (locale === 'uk') {
-                    return proj.language === 'ua' || proj.language === 'uk';
-                }
-                return proj.language === 'en';
-            })
-            .slice(0, 3);
-
-    } catch (e) {
-        console.error("Помилка завантаження проєктів для головної:", e);
-        return [];
-    }
+    return [];
 }
 
 export default async function HomePage() {

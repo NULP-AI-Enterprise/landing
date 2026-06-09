@@ -10,32 +10,11 @@ const UNIT_SLUGS = [
 const API_INTERNAL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080';
 
 async function getProjectSlugs(): Promise<string[]> {
-    try {
-        const res = await fetch(`${API_INTERNAL}/department-web-api/projects/v1?pageNumber=1&pageSize=1000`, {
-            cache: 'no-store',
-        });
-        if (!res.ok) return [];
-        const data = await res.json();
-        const projects = data.content || [];
-        const slugs = [...new Set(projects.map((p: any) => p.slug).filter(Boolean))] as string[];
-        return slugs;
-    } catch {
-        return [];
-    }
+    return [];
 }
 
 async function getNewsIds(): Promise<string[]> {
-    try {
-        const res = await fetch(`${API_INTERNAL}/department-web-api/news/v1?pageNumber=1&pageSize=1000`, {
-            cache: 'no-store',
-        });
-        if (!res.ok) return [];
-        const data = await res.json();
-        const news = data.content || [];
-        return news.map((n: any) => n.id).filter(Boolean) as string[];
-    } catch {
-        return [];
-    }
+    return [];
 }
 
 function staticRoute(

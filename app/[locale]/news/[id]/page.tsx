@@ -14,22 +14,7 @@ const API_INTERNAL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080';
 const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
 
 async function getNewsById(id: string) {
-    try {
-        const res = await fetch(`${API_INTERNAL}/department-web-api/news/v1/${id}`, { cache: 'no-store' });
-        if (res.ok) return await res.json();
-
-        if (res.status === 405 || res.status === 404) {
-            const listRes = await fetch(`${API_INTERNAL}/department-web-api/news/v1?pageNumber=1&pageSize=100`, { cache: 'no-store' });
-            if (!listRes.ok) return null;
-            const listData = await listRes.json();
-            return listData.content?.find((n: any) => n.id === id) || null;
-        }
-        return null;
-    } catch (e) {
-        // Лог для сервера англійською
-        console.error("Error fetching news by ID:", e);
-        return null;
-    }
+    return null;
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; id: string }> }): Promise<Metadata> {

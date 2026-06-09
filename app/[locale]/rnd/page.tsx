@@ -32,26 +32,7 @@ export function generateStaticParams() {
 }
 
 async function getProjects(locale: string) {
-    try {
-        const res = await fetch(`${API_INTERNAL}/department-web-api/projects/v1?pageNumber=1&pageSize=100`, {
-            cache: 'no-store'
-        });
-
-        if (!res.ok) return [];
-
-        const data = await res.json();
-        const allProjects = data.content || [];
-
-        return allProjects.filter((proj: any) => {
-            if (locale === 'uk') {
-                return proj.language === 'ua' || proj.language === 'uk';
-            }
-            return proj.language === 'en';
-        });
-    } catch (e) {
-        console.error("Помилка завантаження проєктів:", e);
-        return [];
-    }
+    return [];
 }
 
 export default async function RndPage({ params }: { params: Promise<{ locale: string }> }) {
