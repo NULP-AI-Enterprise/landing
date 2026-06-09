@@ -8,12 +8,11 @@ replicaCount: 1
 
 # This sets the container image more information can be found here: https://kubernetes.io/docs/concepts/containers/images/
 image:
-  repository: ghcr.io/thesis-i/department-web-front-end
+  repository: ghcr.io/nulp-ai-enterprise/landing
   tag: latest
   pullPolicy: Always
 
-imagePullSecrets:
-  - name: harbor-secret
+imagePullSecrets: []
 
 # This is to override the chart name.
 nameOverride: ""

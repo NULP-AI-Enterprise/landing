@@ -59,8 +59,6 @@ spec:
         app.kubernetes.io/version: "1.16.0"
         app.kubernetes.io/managed-by: Helm
     spec:
-      imagePullSecrets:
-        - name: harbor-secret
       serviceAccountName: department-web-front-end
       securityContext:
         {}
@@ -68,7 +66,7 @@ spec:
         - name: department-web-front-end
           securityContext:
             {}
-          image: "ghcr.io/thesis-i/department-web-front-end:latest"
+          image: "ghcr.io/nulp-ai-enterprise/landing:latest"
           imagePullPolicy: Always
           ports:
             - name: http
