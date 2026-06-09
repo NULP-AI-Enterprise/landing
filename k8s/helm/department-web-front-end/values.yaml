@@ -64,7 +64,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
   # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: app.thesis-i.com
+    - host: ""
       paths:
         - path: /department-web-api/
           pathType: Prefix

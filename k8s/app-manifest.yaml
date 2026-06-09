@@ -148,8 +148,7 @@ spec:
         - "app.thesis-i.com"
       secretName: cert-secret
   rules:
-    - host: "app.thesis-i.com"
-      http:
+    - http:
         paths:
           - path: /department-web-api/
             pathType: Prefix
