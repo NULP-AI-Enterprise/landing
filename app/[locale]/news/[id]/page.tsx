@@ -13,7 +13,7 @@ const SITE_URL = 'https://app.thesis-i.com';
 const API_INTERNAL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080';
 const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
 
-async function getNewsById(id: string) {
+async function getNewsById(id: string): Promise<any> {
     return null;
 }
 

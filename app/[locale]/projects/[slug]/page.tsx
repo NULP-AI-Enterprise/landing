@@ -11,7 +11,7 @@ import type { Metadata } from 'next';
 const SITE_URL = 'https://app.thesis-i.com';
 const API_INTERNAL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080';
 
-async function getProjectBySlug(slug: string) {
+async function getProjectBySlug(slug: string): Promise<any> {
     return null;
 }
 
